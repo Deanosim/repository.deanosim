@@ -150,17 +150,17 @@
             <checksum>https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/</datadir>
         </dir>
-        <!-- repository.plexkodiconnect.Kodi-Nexus.STABLE -->
+        <!-- repository.plexkodiconnect -->
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/croneter/binary_repo/master/stable_py3/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/croneter/binary_repo/master/stable_py3/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/croneter/binary_repo/master/stable_py3/</datadir>
+            <info compressed="false">https://github.com/croneter/repository.plexkodiconnect/repo/addons.xml</info>
+            <checksum>https://github.com/croneter/repository.plexkodiconnect/repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/croneter/repository.plexkodiconnect/repo/bin/</datadir>
         </dir>
         <!-- repository.jellyfin.kodi -->
         <dir>
             <info compressed="false">https://repo.jellyfin.org/releases/client/kodi/addons.xml</info>
             <checksum>https://repo.jellyfin.org/releases/client/kodi/addons.xml.md5</checksum>
-            <datadir zip="true">https://repo.jellyfin.org/releases/client/kodi</datadir>
+            <datadir zip="true">https://github.com/Deanosim/repository.deanosim/blob/master/repo/zips/repository.jellyfin.kodi/</datadir>
         </dir>
         <!-- repository.jurialmunkey -->
         <dir>
