@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="repository.deanosim" name="Deanosim Repository" version="0.7" provider-name="Deanosim">
+<addons><addon id="repository.deanosim" name="Deanosim Repository" version="0.8" provider-name="Deanosim">
     <requires>
         <import addon="xbmc.addon" version="12.0.0" />
         <import addon="xbmc.python" version="3.0.0" />
@@ -152,15 +152,15 @@
         </dir>
         
         <dir>
-            <info compressed="false">https://github.com/croneter/repository.plexkodiconnect/repo/addons.xml</info>
-            <checksum>https://github.com/croneter/repository.plexkodiconnect/repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/croneter/repository.plexkodiconnect/repo/bin/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/croneter/binary_repo/master/stable_py3/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/croneter/binary_repo/master/stable_py3/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/croneter/binary_repo/master/stable_py3/</datadir>
         </dir>
         
         <dir>
             <info compressed="false">https://repo.jellyfin.org/releases/client/kodi/addons.xml</info>
             <checksum>https://repo.jellyfin.org/releases/client/kodi/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/Deanosim/repository.deanosim/blob/master/repo/zips/repository.jellyfin.kodi/</datadir>
+            <datadir zip="true">https://repo.jellyfin.org/releases/client/kodi</datadir>
         </dir>
         
         <dir>
