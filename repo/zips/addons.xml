@@ -7,9 +7,9 @@
     <extension point="xbmc.addon.repository" name="Deanosim's Repository">
         
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Deanosim/repository.deanosim/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Deanosim/repository.deanosim/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Deanosim/repository.deanosim/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Deanosim/repository.deanosim.kodi/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Deanosim/repository.deanosim.kodi/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Deanosim/repository.deanosim.kodi/master/repo/zips/</datadir>
         </dir>
         
         <dir minversion="18.0">
