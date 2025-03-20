@@ -7,24 +7,24 @@ A collection of the Kodi repos that I use to setup my kodi instances, both the r
 Paste this in Kodi:
 
 ```text
-https://deanosim.github.io/repository.deanosim
+https://deanosim.github.io/repository.deanosim.kodi
 ```
 
 ## List of current included Repo's inside Deanosim's Kodi Repo.
 
 - repository.deanosim
-- repository.addons4kodi
-- repository.a4kOfficial
-- repository.slyguy
-- repository.castagnait
-- repository.sandmann79.plugins
-- repository.tikipeter
-- repository.cocoscrapers
-- repository.nixgates
-- repository.umbrella
-- reposity.thecrew
-- repository.plexkodiconnect
-- repository.jellyfin.kodi
-- repository.jurialmunkey
+- ~~repository.addons4kodi~~
+- ~~repository.a4kOfficial~~
+- ~~repository.slyguy~~
+- ~~repository.castagnait~~
+- ~~repository.sandmann79.plugins~~
+- ~~repository.tikipeter~~
+- ~~repository.cocoscrapers~~
+- ~~repository.nixgates~~
+- ~~repository.umbrella~~
+- ~~reposity.thecrew~~
+- ~~repository.plexkodiconnect~~
+- ~~repository.jellyfin.kodi~~
+- ~~repository.jurialmunkey~~
 
 `All included Repo's point back to their original sources.`
