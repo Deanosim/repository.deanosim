@@ -1,5 +1,7 @@
 # Deanosim's Kodi Repository
 
+## REPO NAME SOON CHANGING TO `https://github.com/Deanosim/repository.kodi.deanosim`
+
 A collection of the Kodi repos that I use to setup my kodi instances, both the repos and the addons within the repos can both be directly installed from my repo without having to manually install all the sources in Kodi's file manager.
 
 Paste this in Kodi:
